@@ -1,0 +1,5 @@
+var storageController = {};
+
+module.exports = {
+
+};
